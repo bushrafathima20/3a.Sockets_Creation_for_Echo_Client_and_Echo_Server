@@ -35,6 +35,7 @@ while True:
 <img width="727" height="327" alt="Screenshot 2026-05-21 192118" src="https://github.com/user-attachments/assets/a198a51f-63c5-44cb-b2ef-e37113a85b93" />
 
 <img width="711" height="150" alt="Screenshot 2026-05-21 192151" src="https://github.com/user-attachments/assets/48451a6f-a586-40aa-acc1-0ebb2dc5e4c4" />
+
 ## Server.py:
 <img width="535" height="227" alt="Screenshot 2026-05-21 192249" src="https://github.com/user-attachments/assets/7e15a0fd-ab37-4a13-84b3-e643dd55bcb6" />
 
